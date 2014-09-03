@@ -18,7 +18,7 @@
             </div>
             <div class="app_errortext">
                 <p> This error message can be minor and results from an isolated, short interruption when using the system. Generally, logging off and repeating the action will resolve the issue.
-                    If that does not resolve the issue, contact ABB Technical Support (support@abb.com) and we will try to replicate the issue. Please provide support with the username and password of the user(s) impacted.<br/><br/>
+                    If that does not resolve the issue, contact and we will try to replicate the issue. Please provide support with the username and password of the user(s) impacted.<br/><br/>
                     <a href="<?php echo site_url(); ?>/auth" class="btn btn-primary btn-small"><strong>Click here back</strong></a>
                 </p>
             </div>
